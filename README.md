@@ -2,7 +2,7 @@
 
 This is a simple command-line calculator program written in Go. It allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Features
+## qFeatures
 
 - Supports the following operations: `+`, `-`, `*`, `/`.
 - Handles division by zero with an error message.
